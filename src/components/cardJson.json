@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "E-Comerce",
+      "description": "Website with shopping cart created using useContext and useReducer",
+      "image": "https://i.imgur.com/Wx9lCQ4.jpg",
+      "url": "https://github.com/freeluckperson/Proyectos-backend-frontent-fullstack",
+      "deploy": "https://proyectos-backend-frontent-fullstack.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "Todo List",
+      "description": "Crud made with redux toolkit, tailwindCss and react hook form",
+      "image": "https://i.imgur.com/GMHpIZX.jpg",
+      "url": "https://github.com/freeluckperson/Proyectos-backend-frontent-fullstack",
+      "deploy": "https://todo-redux-toolkit-iota.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "E-Comerce",
+      "description": "Collaborator on fullstack project with NextJs 13, MongoDB, Cloudinary, Clerk, Redux Tlk",
+      "image": "https://i.imgur.com/IgzF6TO.jpg",
+      "url": "https://github.com/freeluckperson/final-project-client",
+      "deploy": "https://final-project-client-lime.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Web challenges",
+      "description": "Facing challenge from the Frontendmentor.io website for this specific challenge I used react.js and tailwind. ",
+      "image": "https://i.imgur.com/EET96ll.jpg",
+      "url": "https://github.com/freeluckperson/frontendmentor-challenge-1",
+      "deploy": "https://frontendmentor-challenge-1-one.vercel.app/"
+    },
+    {
+      "id": 5,
+      "title": "MyWeb",
+      "description": "My own website made with react and bootstrap.",
+      "image": "https://i.imgur.com/rks6yc4.jpg",
+      "url": "https://github.com/freeluckperson/my-web",
+      "deploy": "https://nuevo-cv.vercel.app/"
+    }
+  ]
+}

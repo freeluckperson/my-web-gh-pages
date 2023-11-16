@@ -1,0 +1,25 @@
+.custom-navbar {
+  margin: 20px;
+  border-radius: 0.7vh;
+  /* border: 3px solid rgb(214, 213, 213); */
+}
+
+.custom-nav {
+  display: flex;
+}
+
+.custom-nav a:last-child {
+  border-right: none;
+}
+
+.custom-nav a {
+  color: #8bc34a;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.custom-nav a:hover,
+.custom-nav a:focus {
+  color: #beee87;
+}

@@ -1,0 +1,14 @@
+.lead {
+  margin: 10vh;
+  animation-name: aboutFadeIn;
+  animation-duration: 1.5s;
+}
+
+@keyframes aboutFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

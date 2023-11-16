@@ -1,0 +1,14 @@
+* {
+  /* margin: 0;
+  padding: 0.1rem; */
+  text-align: center;
+  font-family: fantasy;
+  color: whitesmoke;
+}
+
+body {
+  background-image: url("https://i.imgur.com/EkMjV4O.jpg");
+  background-size: cover;
+  background-position: "center";
+  height: 100vh;
+}

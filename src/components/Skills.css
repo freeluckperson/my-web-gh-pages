@@ -1,0 +1,19 @@
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 20px;
+  height: 50vh;
+  animation-name: cardFadeIn;
+  animation-duration: 1.5s;
+}
+
+@keyframes cardFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
